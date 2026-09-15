@@ -15,4 +15,6 @@ Color, flower, sport, animal, movie and more.
 My goals-
 What I want to do in future.
 
+I used HTML, CSS, Canva, and GitHub Pages to create this project. While making this website, I learned how to build webpages, style them, publish them online, and solve problems when things didn't work correctly.
+
 This is my first project so I hope you like it:) Have a great day!!
