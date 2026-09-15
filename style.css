@@ -67,10 +67,18 @@ body {
     }
 
     .button-link {
-        position: absolute;
-        width: 440px;
-        height: 90px;
-        left: 320px;
-        bottom: 70px;
-        display: block;
-    }
+    position: absolute;
+    width: 440px;
+    height: 90px;
+    left: 320px;
+    bottom: 70px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    text-decoration: none;
+    color: #c0397f;
+    font-size: 32px;
+    font-weight: bold;
+}
